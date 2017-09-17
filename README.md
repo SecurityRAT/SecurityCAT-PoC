@@ -11,6 +11,7 @@ This PoC is testing 3 requirements from OWASP ASVS 3.0.1:
  ### Prerequisities
  * Redis
  * Python libraries stated in gateway.py and microservice.py
+ * the ```securityrat_url``` variable in ```gateway.py``` set to the URL of your actual SecurityRAT instance
  
  ### How to launch
 1. Launch your Redis instance (local port 6379 is expected by default)
