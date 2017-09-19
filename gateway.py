@@ -117,4 +117,4 @@ class TestResult(Resource):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+    app.run(debug=True, port=5001, ssl_context='adhoc')
