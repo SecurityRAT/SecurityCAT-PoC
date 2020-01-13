@@ -1,0 +1,6 @@
+flask
+flask_restplus
+celery
+pyyaml
+pyopenssl
+redis
