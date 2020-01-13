@@ -9,8 +9,8 @@ This PoC is testing 3 requirements from OWASP ASVS 3.0.1:
  * ```ASVS_3.0.1_10.12```: Requirement 10.12 - Actived preloading for HSTS
  
  ### Prerequisities
+ * Installed Python libraries `pip install -r requirements.txt`
  * Redis
- * Python libraries stated in gateway.py and microservice.py
  * the ```securityrat_url``` variable in ```gateway.py``` set to the URL of your actual SecurityRAT instance
  
  ### How to launch
