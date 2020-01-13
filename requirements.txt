@@ -3,3 +3,4 @@ flask_restplus
 celery
 pyyaml
 pyopenssl
+redis
